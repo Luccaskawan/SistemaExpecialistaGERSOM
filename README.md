@@ -1,4 +1,6 @@
 Sistema Especialista GERSOM
+
+
 Descrição -
 Este projeto é um sistema especialista desenvolvido em Python utilizando a biblioteca CustomTkinter. Ele auxilia na recomendação de componentes de hardware para montagem de computadores personalizados, baseado nas necessidades e preferências do usuário, como orçamento, uso para jogos, edição audiovisual e programação.
 
